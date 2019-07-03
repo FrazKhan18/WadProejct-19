@@ -17,6 +17,7 @@
 <head>
     <meta charset="UTF-8">
     <title>HomePage</title>
+    <meta name="keywords" content="Online Food Delivery, Resturants that deliver near me, Free homedelivery food, Fast food resturants near me, 24hours fast food ">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="css/stylesHomepage.php">
     <link rel="stylesheet" type="text/css" href="css/navbar.css">

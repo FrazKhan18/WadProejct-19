@@ -4,6 +4,7 @@ require_once "Header Footer/headerfooter.php"
 <!DOCTYPE html>
 <html>
 <head>
+    <meta name="keywords" content="Online Food Delivery,deliver near me, Free homedelivery, Fast food resturants, fast food ">
     <link rel="stylesheet" type="text/css" href="css/aboutus.css">
     <title>About Us</title>
 <link rel="stylesheet" type="text/css" href="css/navbar.css">

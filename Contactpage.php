@@ -7,6 +7,7 @@ require_once "Header Footer/headerfooter.php"
 <head>
     <meta charset="UTF-8">
     <title>contact page</title>
+    <meta name="keywords" content="Online Delivery, Resturants that deliver near me, Free food, Fast food resturants near me, 24hours service ">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css">
